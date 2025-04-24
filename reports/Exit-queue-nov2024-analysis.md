@@ -127,6 +127,11 @@ ORDER BY
 
 ---
 
+[🔗 Dune에서 차트 직접 보기](https://dune.com/coincraft12/validator-exit-queue-vs-eth-staking-and-price-nov-2024-on-chain-correlation)
+
+---
+
+
 ### ⛳️ 분석가: Coincraft
 **Ethereum & On-Chain Data Analyst**
 
