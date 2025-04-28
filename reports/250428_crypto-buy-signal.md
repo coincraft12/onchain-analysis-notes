@@ -18,7 +18,7 @@
   - **0.1 이하**: 극단적 공포, 세대적 매수 기회 (Generational Buy)
   - **0.9 이상**: 극단적 탐욕, 세대적 매도 신호 (Generational Sell)
 
-![alt text](../../charts/250428_Crypto_Buy_Signal.jpg)
+![alt text](../charts/250428_Crypto_Buy_Signal.jpg)
 
 - Alt Signal 값 계산 방법
   - Step 1: **순수 알트코인** 시가총액 계산
@@ -53,7 +53,7 @@
 - 단기 트레이딩보다 중장기 트렌드 포착에 유리
 - Alt Signal의 극단 값(0.1, 0.9)을 통해 시장의 극단적 심리를 포착할 수 있음
 
-![alt text](../../charts/250428_Crypto_Buy_Signal_analysis.png)
+![alt text](../charts/250428_Crypto_Buy_Signal_analysis.png)
 
 ---
 
