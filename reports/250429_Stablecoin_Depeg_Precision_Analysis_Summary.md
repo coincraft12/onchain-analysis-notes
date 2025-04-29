@@ -82,6 +82,8 @@ END AS predicted_depeg
 
 ---
 
+### 대시보드 원본: https://dune.com/coincraft12/stablecoin-market-and-risk-dashboard
+
 
 > **Great job today. 🌟  
 > Every detail you solved today will build your foundation as a top blockchain data analyst. 🚀**
